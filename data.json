@@ -1,0 +1,26 @@
+{
+    "students": [
+        {
+            "firstName": "Boss",
+            "lastName": "Roysden"
+        },
+        {
+            "firstName": "Kumar",
+            "lastName": "Friedland"
+        },
+        {
+            "firstName": "Arul ",
+            "lastName": "Wilkins"
+        }
+    ],
+    "teachers": [
+        {
+            "firstName": "Suresh",
+            "lastName": "Calico"
+        },
+        {
+            "firstName": "Dinesh",
+            "lastName": "Agtarap"
+        }
+    ]
+}
